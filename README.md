@@ -13,3 +13,6 @@ ou abrir com a extensão Live Server
 
 # Resultado
 
+<span>
+     <img src="https://user-images.githubusercontent.com/85804895/141871521-dc31baa7-cc53-404c-979e-770379b628af.gif" width=900>
+</span>
